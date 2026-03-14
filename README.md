@@ -91,12 +91,4 @@ catalogo-mobile/
 
 ---
 
-## 🖼️ Prints das telas
 
-<!-- Adicione os prints aqui -->
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **seu nome** para a disciplina de **Mobile Development** — UniFECAF.
