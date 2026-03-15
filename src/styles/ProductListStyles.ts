@@ -27,7 +27,6 @@ export const styles = StyleSheet.create({
     borderBottomColor: "#1565C0",
   },
 
-  // texto da aba
   abaTexto: {
     fontSize: 13,
     fontWeight: "600",
