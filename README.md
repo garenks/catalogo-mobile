@@ -1,10 +1,10 @@
-# 🛍️ Catálogo Mobile
+#  Catálogo Mobile
 
 Aplicativo mobile de catálogo de produtos desenvolvido com React Native e Expo, consumindo a API REST do DummyJSON.
 
 ---
 
-## 📱 Telas
+##  Telas
 
 - **Login** — autenticação com validação de campos
 - **Lista de Produtos** — produtos separados por abas (Masculino e Feminino)
@@ -13,7 +13,7 @@ Aplicativo mobile de catálogo de produtos desenvolvido com React Native e Expo,
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - ⚛️ [React Native](https://reactnative.dev/) — framework para desenvolvimento mobile
 - 📦 [Expo](https://expo.dev/) — plataforma para rodar e buildar o app
@@ -25,7 +25,7 @@ Aplicativo mobile de catálogo de produtos desenvolvido com React Native e Expo,
 
 ---
 
-## ⚙️ Como executar o projeto
+##  Como executar o projeto
 
 ### Pré-requisitos
 
@@ -58,7 +58,7 @@ npx expo start
 
 ---
 
-## 🔐 Credenciais de acesso
+##  Credenciais de acesso
 
 | Campo    | Valor   |
 |----------|---------|
@@ -67,7 +67,7 @@ npx expo start
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 ```
 catalogo-mobile/
 ├── src/
@@ -88,7 +88,12 @@ catalogo-mobile/
 │       └── SettingsStyles.ts
 └── App.tsx
 ```
-
+## Prints-telas
+### Login
+<img src="./prints/login.png" width="250">
+<img src="./prints/catalogo.png" width="250">
+<img src="./prints/detalhes.png" width="250">
+<img src="./prints/configuração.png" width="250">
 ---
 
 
